@@ -20,8 +20,9 @@ let favDrink='Lemonade';
 console.log(favDrink);
 
 //3 - Change value and log
-favFood='Pasta'
-console.log(fastFood)
+favFood='Pasta';
+console.log(fastFood);
 
 //4 - Create birthday and assign variable
-const birthday='5th June 2000'
+const birthday='5th June 2000';
+console.log(birthday);
